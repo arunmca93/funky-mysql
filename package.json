@@ -1,0 +1,17 @@
+{
+  "name": "funky-mysql",
+  "version": "1.0.3",
+  "description": "Funky mysql used for mysql DB access",
+  "main": "index.js",
+  "keywords": [
+    "funky-mysql",
+    "mysql",
+    "query-builder",
+    "database"
+  ],
+  "author": "Arunkumar G",
+  "license": "ISC",
+  "dependencies": {
+    "sync-mysql": "^3.0.1"
+  }
+}
