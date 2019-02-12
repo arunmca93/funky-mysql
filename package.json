@@ -1,6 +1,6 @@
 {
   "name": "funky-mysql",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Funky mysql used for mysql DB access",
   "main": "index.js",
   "keywords": [
@@ -13,5 +13,9 @@
   "license": "ISC",
   "dependencies": {
     "sync-mysql": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arunmca93/funky-mysql.git"
   }
 }
